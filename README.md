@@ -1,5 +1,4 @@
-# fbs_pyqt5_py3.6_tenserflow
-# fbs_pyqt5_py3.6_tenserflow
+# 用FBS 在UOS上 对pyqt5/tensorflow应用进行打包
 ### 创建开发环境
 
 官网安装最新的miniconda，python可以选最新的3.9下载
